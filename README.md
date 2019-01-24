@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Demo link
+
+https://react-recipes-app.netlify.com/
+
 ## API
 
 https://www.food2fork.com/about/api
